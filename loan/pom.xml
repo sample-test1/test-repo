@@ -4,7 +4,7 @@
 
     <groupId>sbi</groupId>
     <artifactId>loan</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.7-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>Spring Boot Jersey Blank Project (from https://github.com/making/spring-boot-jersey-blank)</name>
